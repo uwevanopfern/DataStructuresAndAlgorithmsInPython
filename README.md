@@ -4,5 +4,5 @@ Dynamic Programming and its concepts by coding examples, Will be updated as I am
 
 
 # Prerequisites
-- Have Python 3 or Latest Version Installed
+- Have Python 3v or latest versions Installed
 - Have Anaconda or Miniconda Installed So that you can play with jupyter notebook files
