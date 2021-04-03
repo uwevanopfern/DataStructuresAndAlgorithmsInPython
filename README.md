@@ -1,4 +1,4 @@
-# Dynamic-Programming (Python focuse)
+# Dynamic-Programming (Python focus)
 Dynamic Programming and its concepts by coding examples, Will be updated as I am working on new algorithms
 
 
